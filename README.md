@@ -11,4 +11,4 @@ With the recent advancements in Image processing techniques and Machine learning
 ### Present Work
 * This work is presently continued and improved by <b>Jeevan Jamakayala</b>, IIT Tirupati.<br />
 * Since this work is presently ongoing, improvements and updates will be made though time.
-* For any queries contact: jeevan.jamakalaya@gmail.com , amballachaitanya777@gmail.com
+* For any queries contact: jeevan.jamakayala@gmail.com , amballachaitanya777@gmail.com
